@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be909f6c916772f48bcd02ad36f9b8fd, type: 3}
+  m_Name: Unique
+  m_EditorClassIdentifier: 
+  itemName: Unique
+  itemImage: {fileID: 21300000, guid: 7bc9f56e20b6e4b42913f6b1c1619805, type: 3}
+  item: {fileID: 0}
+  itemDesc: "Unique \uB4F1\uAE09\uC758 \uC720\uBB3C\n\uC655\uC758 \uD798\uC774 \uB290\uAEF4\uC9C0\uBA70
+    \n\uC790\uC2E0\uC758 \uACF5\uACA9\uB825\uC774 \uC9DD\uC218\uBA74\n\uACF5\uACA9\uB825\uC744
+    500% \uC99D\uAC00\uC2DC\uD0A8\uB2E4."
+  abc: '*5'
+<<<<<<< HEAD
+  itemDesc: "Unique \uB4F1\uAE09\uC758 \uC720\uBB3C\n\uC655\uC758 \uD798\uC774 \uB290\uAEF4\uC9C0\uBA70
+    \n\uC790\uC2E0\uC758 \uACF5\uACA9\uB825\uC774 \uC9DD\uC218\uBA74\n\uACF5\uACA9\uB825\uC744
+    500% \uC99D\uAC00\uC2DC\uD0A8\uB2E4."
+  rank: Even
+=======
+  rank: Unique
+>>>>>>> f9133e3071e381a27f4021ca6b84cb9fcab5d037
+  condition: Even
+  tag: artifact
